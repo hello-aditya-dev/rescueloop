@@ -42,6 +42,8 @@
     "skills",
     "tests",
     "upload",
-    "scripts"
+    "scripts",
+    "src/tests",
+    "src/tests/**"
   ]
 }
